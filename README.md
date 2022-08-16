@@ -1,4 +1,21 @@
-# Issue_Creator
+# Issue_Creator v 0.5
+Issue_Creator is a repository set up to utilize GitHub's Issue API with Python.
+
+# Features included:
+- Issues
+- Assignees
+- Comments
+- Labels
+- Milestones
+- Timeline
+
+# To be featured
+
+- Move to a master file
+- Events
+- Reduce Code
+
+# Issue_Creator v 0.1
 Issue_Creator is a repository set up to demonstrate how to utilize GitHub's Issue Creation feature via their API.
 
 # Functions included
